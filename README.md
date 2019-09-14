@@ -1,4 +1,7 @@
 # DemoFlex
+#Result_DemoFlex1:
+<img src="https://i.ibb.co/8jBNQ1d/demo-Flex1.png/>
+
 Mục đích khi sử dụng thẻ Flex: Chia bố cục cho một trang web theo hướng ngang(ưu tiên) và hướng dọc
 Các từ khóa được sử dụng trong thẻ Flex: - display: flex
                                          - flex-grow: set width cho man hinh
